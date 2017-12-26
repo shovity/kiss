@@ -1,0 +1,10 @@
+{
+    "name": "Kiss Is a Simple Slide",
+    "editor": {
+        "theme": "eclipse",
+        "tabSize": 4,
+        "lineWrapping": true,
+		"lineNumbers": true,
+		"firstLineNumber": 1
+    }
+}
